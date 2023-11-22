@@ -1,0 +1,1 @@
+npm --prefix ../../plugins/OBS_RL run app
